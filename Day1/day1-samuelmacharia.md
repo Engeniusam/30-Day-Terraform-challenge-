@@ -13,7 +13,7 @@ Samuel Macharia
 - Terraform resources destroyed: ![Terraform resources deleted)](https://github.com/user-attachments/assets/691baa8f-3e82-45de-9b63-d11dea311443)
 
 #### Linkedin Post
-Posted on Linkedin:
+Posted on Linkedin: https://www.linkedin.com/posts/engeniusam_30daytfchallenge-hug-hashicorp-activity-7332858092377784320-hOWr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtVt-QBTUtYeTvR-UpJjur8rN4DrHJK85A
 
 
 
