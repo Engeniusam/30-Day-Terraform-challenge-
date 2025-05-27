@@ -1,9 +1,18 @@
-**NAME:**
-Samuel Macharia
+# Day 1 Submission
 
-### Task Completed:
-#### Published a blog post: [What is Infrastructure as Code (IaC) and Why It's Transforming DevOps [https://yourblog.com/terraform-journey](https://engeniusam.hashnode.dev/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops)
-#### Hands on Lab Completed:
+## Personal Information
+- **Name:** Samuel Macharia
+- **Date:** Monday 26th May, 2025
+- **GitHub Username:** Engeniusam
+
+## Task Completion
+- [ ] Read Chapter 1 of "Terraform: Up & Running"
+- [ ] Completed Required Hands-on Labs
+- [ ] Set up AWS Account
+- [ ] Installed Terraform
+- [ ] Installed and Configured AWS CLI
+- [ ] Installed VSCode with AWS Plugin
+- [ ] Configured VSCode for AWS
   - Created the deployment manually (tiresome) : ![Route Tables Created](https://github.com/user-attachments/assets/872a0629-1213-46b1-a340-71ca47fe6922)
   - Access key generated from AWS: ![Terraform and AWS integration](https://github.com/user-attachments/assets/2c645c8d-f109-4145-b1ed-611975969cd0)
   - Terraform initialized successfully: ![Terraform Initialized](https://github.com/user-attachments/assets/89765a51-5671-4bec-bd95-ff4aa84275bb)
@@ -12,11 +21,28 @@ Samuel Macharia
   - Terraform 18 resources created: ![Terraform resources created](https://github.com/user-attachments/assets/c04f4d97-ac39-4f39-bf7c-7b92d4bd5de0)
 - Terraform resources destroyed: ![Terraform resources deleted)](https://github.com/user-attachments/assets/691baa8f-3e82-45de-9b63-d11dea311443)
 
-#### Linkedin Post
-Posted on Linkedin: https://www.linkedin.com/posts/engeniusam_30daytfchallenge-hug-hashicorp-activity-7332858092377784320-hOWr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtVt-QBTUtYeTvR-UpJjur8rN4DrHJK85A
+## Blog Post
+- **Title:** What is Infrastructure as Code (IaC) and Why It's Transforming DevOps
+- **Link:** https://yourblog.com/terraform-journey](https://engeniusam.hashnode.dev/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops
 
+## Social Media
+- **Platform:** [Twitter/LinkedIn]
+- **Post Link:** (https://www.linkedin.com/posts/engeniusam_30daytfchallenge-hug-hashicorp-activity-7332858092377784320-hOWr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtVt-QBTUtYeTvR-UpJjur8rN4DrHJK85A)
 
+## Notes and Observations
+[Share your key learnings, challenges faced, and how you overcame them]
+Setting up an access key from AWS was tricky but I managed to hack through
 
+## Additional Resources Used
+[List any additional resources you found helpful]
+
+## Time Spent
+- Reading: [2 hours]
+- Setup and Configuration: [1 hour]
+- Blog Writing: [1 hours]
+- Total: [4 hours] 
 
 
 _Date and Time of Completion:_ Monday 26/05/2025, 9:34PM
+
+
