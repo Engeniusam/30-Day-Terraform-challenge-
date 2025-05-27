@@ -27,7 +27,7 @@
 
 ## Social Media
 - **Platform:** [LinkedIn]
-- **Post Link:** [URL to your social media post]
+- **Post Link:** https://www.linkedin.com/posts/engeniusam_30daytfchallenge-hug-hashicorp-activity-7332858092377784320-hOWr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtVt-QBTUtYeTvR-UpJjur8rN4DrHJK85A
 
 ## Notes and Observations
 [Share your key learnings, challenges faced, and how you overcame them]
